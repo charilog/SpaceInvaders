@@ -6,7 +6,7 @@ A classic **Space Invaders** arcade game built with **C++17** and **Qt6**, featu
 
 ## 📸 Preview
 
-![icon](space_invaders.ico)
+![gameplay](docs/SpaceInvaders.png)
 
 > 900×650 window · Starfield background · Animated alien sprites · Explosion effects
 
