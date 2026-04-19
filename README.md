@@ -65,6 +65,11 @@ cmake --build build --config Release
 ```
 
 > `windeployqt` runs automatically after build and copies all required Qt DLLs next to the `.exe`.
+>
+
+> **Windows installer available:** Download and run **SpaceInvaders.exe** from:
+>
+> **[SpaceInvaders.exe (Windows Installer)](https://www.dit.uoi.gr/files/SpaceInvaders.zip)**
 
 ### Linux / macOS
 
